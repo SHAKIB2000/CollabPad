@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CollabPad.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CollabPad.Web.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\css\\sites.css",
+      "PackagePath": "staticwebassets\\css\\sites.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\im\\20943953.jpg",
+      "PackagePath": "staticwebassets\\im\\20943953.jpg"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\im\\2451363.jpg",
+      "PackagePath": "staticwebassets\\im\\2451363.jpg"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\im\\3515462.jpg",
+      "PackagePath": "staticwebassets\\im\\3515462.jpg"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\im\\4650046.jpg",
+      "PackagePath": "staticwebassets\\im\\4650046.jpg"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\im\\6388555.jpg",
+      "PackagePath": "staticwebassets\\im\\6388555.jpg"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\im\\App data-rafiki.png",
+      "PackagePath": "staticwebassets\\im\\App data-rafiki.png"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\im\\At the office-amico.png",
+      "PackagePath": "staticwebassets\\im\\At the office-amico.png"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\im\\Business analytics-bro.png",
+      "PackagePath": "staticwebassets\\im\\Business analytics-bro.png"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\im\\Data report-bro.png",
+      "PackagePath": "staticwebassets\\im\\Data report-bro.png"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\im\\Design team-amico.png",
+      "PackagePath": "staticwebassets\\im\\Design team-amico.png"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\im\\Design team-bro.png",
+      "PackagePath": "staticwebassets\\im\\Design team-bro.png"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\im\\Game analytics-bro.png",
+      "PackagePath": "staticwebassets\\im\\Game analytics-bro.png"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\im\\Online world-amico.png",
+      "PackagePath": "staticwebassets\\im\\Online world-amico.png"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\im\\kbb.jpg",
+      "PackagePath": "staticwebassets\\im\\kbb.jpg"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\im\\man.jpg",
+      "PackagePath": "staticwebassets\\im\\man.jpg"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\SE - 431\\Project\\Back End\\CollabPad\\CollabPad.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CollabPad.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CollabPad.Web.props",
+      "PackagePath": "build\\CollabPad.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CollabPad.Web.props",
+      "PackagePath": "buildMultiTargeting\\CollabPad.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CollabPad.Web.props",
+      "PackagePath": "buildTransitive\\CollabPad.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
