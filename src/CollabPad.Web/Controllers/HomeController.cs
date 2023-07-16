@@ -18,8 +18,24 @@ namespace CollabPad.Web.Controllers
         {
             return View();
         }
-        
-        public IActionResult Privacy()
+        public IActionResult DataCollection()
+        {
+            return View();
+        }
+        public IActionResult ProposalSharing()
+        {
+            return View();
+        }
+        public IActionResult DatasetSubmission()
+        {
+            return View();
+        }
+        public IActionResult About()
+        {
+            return View();
+        }
+
+        public IActionResult Contact()
         {
             return View();
         }
