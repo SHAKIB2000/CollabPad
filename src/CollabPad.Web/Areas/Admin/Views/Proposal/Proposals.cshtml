@@ -1,0 +1,122 @@
+﻿@model ProposalListModel
+@{
+    ViewData["Title"] = "Proposals";
+}
+
+@section Styles
+    {
+    <link rel="stylesheet" href="~/admin/plugins/datatables-bs4/css/dataTables.bootstrap4.css">
+}
+
+<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1 class="m-0">All Proposals</h1>
+                </div><!-- /.col -->
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a asp-area="Admin" asp-controller="Proposal" asp-action="Index">Home</a></li>
+                        <li class="breadcrumb-item active">Proposals</li>
+                    </ol>
+                </div><!-- /.col -->
+            </div><!-- /.row -->
+        </div><!-- /.container-fluid -->
+    </div>
+    <!-- /.content-header -->
+
+<!-- Main content -->
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title">DataTable with default features</h3>
+                    </div>
+                    <!-- /.card-header -->
+                    <div class="card-body">
+                        <partial name="_ResponsePartial" />
+                        <table id="Proposals" class="table table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Title</th>
+                                    <th>Description</th>
+                                    <th>Area</th>
+                                    <th>Date</th>
+                                    <th>Status</th>
+                                    <th width="130px">Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                            <tfoot>
+                                <tr>
+                                    <th>Title</th>
+                                    <th>Description</th>
+                                    <th>Area</th>
+                                    <th>Date</th>
+                                    <th>Status</th>
+                                    <th width="130px">Actions</th>
+                                </tr>
+                            </tfoot>
+                            <partial name="_ModalPartial" />
+                        </table>
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container-fluid -->
+</section>
+
+
+@section Scripts
+    {
+    <!-- DataTables & Plugins -->
+    <script src="~/admin/plugins/datatables/jquery.dataTables.js"></script>
+    <script src="~/admin/plugins/datatables-bs4/js/dataTables.bootstrap4.js"></script>
+    <!-- Page specific script -->
+    <script>
+        $(function () {
+            $('#Proposals').DataTable({
+                "processing": true,
+                "serverSide": true,
+                "ajax": {
+                    "url": "/Admin/Proposal/GetProposals",
+                },
+                "columnDefs": [
+                    {
+                        "orderable": false,
+                        "targets": 5,
+                        "render": function (data, type, row) {
+                            return `<button type="submit" class="btn btn-info btn-sm" onclick="window.location.href='/admin/Proposal/update/${data}'" value='${data}'>
+                                                            <i class="fas fa-pencil-alt"></i>Edit</button>
+                                                            <button type="submit" class="btn btn-danger btn-sm show-bs-modal" data-id='${data}' value='${data}'>
+                                                            <i class="fas fa-trash"></i>Delete</button>`;
+                        }
+                    }
+                ]
+            });
+            $('#Proposals').on('click', '.show-bs-modal', function (event) {
+                var id = $(this).data("id");
+                var modal = $("#modal-default");
+                modal.find('.modal-body p').text('Do you want to delete this record?');
+                $("#deleteId").val(id);
+                $("#deleteForm").attr("action", "/admin/Proposal/delete");
+                modal.modal('show');
+            });
+
+            $("#deleteButton").click(function () {
+                $("#deleteForm").submit();
+            });
+        });
+    </script>
+}

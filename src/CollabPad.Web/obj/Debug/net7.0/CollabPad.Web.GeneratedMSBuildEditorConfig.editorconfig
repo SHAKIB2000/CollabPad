@@ -9,109 +9,149 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CollabPad.Web
 build_property.RootNamespace = CollabPad.Web
-build_property.ProjectDir = E:\SE - 431\Project\Back End\Github\CollabPad\CollabPad.Web\
+build_property.ProjectDir = E:\SE - 431\Project\Back End\Github\CollabPad\src\CollabPad.Web\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\SE - 431\Project\Back End\Github\CollabPad\CollabPad.Web
+build_property.MSBuildProjectDirectory = E:\SE - 431\Project\Back End\Github\CollabPad\src\CollabPad.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Admin/Views/Proposal/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvcG9zYWxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Admin/Views/Proposal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvcG9zYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Admin/Views/Proposal/Proposals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvcG9zYWxcUHJvcG9zYWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Admin/Views/Proposal/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvcG9zYWxcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Admin/Views/Shared/_ModalPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Nb2RhbFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Admin/Views/Shared/_ResponsePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9SZXNwb25zZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/Account/Login.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/Account/Register.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/_ViewImports.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Areas/Identity/Pages/_ViewStart.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Views/Home/Index.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Views/Home/Privacy.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Views/Shared/Error.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Views/Shared/_LoginPartial.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Views/_ViewImports.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Views/_ViewStart.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/SE - 431/Project/Back End/Github/CollabPad/CollabPad.Web/Views/Shared/_Layout.cshtml]
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4rwlpe4nfj
+
+[E:/SE - 431/Project/Back End/Github/CollabPad/src/CollabPad.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5pcpcr4srr

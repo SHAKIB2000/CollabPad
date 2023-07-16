@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollabPad.Web", "CollabPad.Web\CollabPad.Web.csproj", "{08C2A7E4-63DF-4811-9019-9CA54FE0C029}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollabPad.Web", "CollabPad.Web\CollabPad.Web.csproj", "{08C2A7E4-63DF-4811-9019-9CA54FE0C029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollabPad.Domain", "CollabPad.Domain\CollabPad.Domain.csproj", "{4D510B0C-D9EB-4D4C-AA6E-9FC11CF98FC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollabPad.Application", "CollabPad.Application\CollabPad.Application.csproj", "{D3586BE3-477E-47AE-ADAC-9A8502F5B33E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollabPad.Persistence", "CollabPad.Persistence\CollabPad.Persistence.csproj", "{3704C34D-AF44-453A-9E5F-245A11C7FE6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollabPad.Infrastructure", "CollabPad.Infrastructure\CollabPad.Infrastructure.csproj", "{463E7879-EED4-407D-852F-DEACE3CA086B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{08C2A7E4-63DF-4811-9019-9CA54FE0C029}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08C2A7E4-63DF-4811-9019-9CA54FE0C029}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08C2A7E4-63DF-4811-9019-9CA54FE0C029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D510B0C-D9EB-4D4C-AA6E-9FC11CF98FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D510B0C-D9EB-4D4C-AA6E-9FC11CF98FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D510B0C-D9EB-4D4C-AA6E-9FC11CF98FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D510B0C-D9EB-4D4C-AA6E-9FC11CF98FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3586BE3-477E-47AE-ADAC-9A8502F5B33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3586BE3-477E-47AE-ADAC-9A8502F5B33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3586BE3-477E-47AE-ADAC-9A8502F5B33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3586BE3-477E-47AE-ADAC-9A8502F5B33E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3704C34D-AF44-453A-9E5F-245A11C7FE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3704C34D-AF44-453A-9E5F-245A11C7FE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3704C34D-AF44-453A-9E5F-245A11C7FE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3704C34D-AF44-453A-9E5F-245A11C7FE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463E7879-EED4-407D-852F-DEACE3CA086B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463E7879-EED4-407D-852F-DEACE3CA086B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463E7879-EED4-407D-852F-DEACE3CA086B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463E7879-EED4-407D-852F-DEACE3CA086B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

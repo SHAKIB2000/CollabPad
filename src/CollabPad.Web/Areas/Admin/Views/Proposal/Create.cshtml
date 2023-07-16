@@ -1,0 +1,89 @@
+﻿@model ProposalCreateModel
+@{
+    ViewData["Title"] = "Create Proposal";
+}
+<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1 class="m-0">Create New Proposals</h1>
+                </div><!-- /.col -->
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a asp-area="Admin" asp-controller="Proposal" asp-action="Index">Home</a></li>
+                        <li class="breadcrumb-item active">Create</li>
+                    </ol>
+                </div><!-- /.col -->
+            </div><!-- /.row -->
+        </div><!-- /.container-fluid -->
+    </div>
+    <!-- /.content-header -->
+<!-- Main content -->
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <!-- left column -->
+            <div class="col-md-6">
+                <!-- general form elements -->
+                <div class="card card-primary">
+                    <div class="card-header">
+                        <h3 class="card-title">Add a New Proposal</h3>
+                    </div>
+                    <!-- /.card-header -->
+                    <!-- form start -->
+                    <form role="form" asp-antiforgery="true" asp-action="Create" asp-area="Admin"
+                          asp-controller="Proposal" method="post">
+                        <div class="card-body">
+                            <partial name="_ResponsePartial" />
+                            <div asp-validation-summary="All" class="text-danger">
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Title">Title</label>
+                                <input type="text" class="form-control" asp-for="Title" placeholder="Enter Proposal Title">
+                                <span asp-validation-for="Title" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Description">Description</label>
+                                <textarea class="form-control" rows="4" asp-for="Description" placeholder="Enter Proposal Description">
+                                <span asp-validation-for="Description" class="text-danger"></span></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Area">Area</label>
+                                <input type="text" class="form-control" asp-for="Area" placeholder="Enter Proposal Area">
+                                <span asp-validation-for="Area" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Status">Status</label>
+                                <select class="form-control custom-select" asp-for="Status">
+                                  <option selected disabled>Select one</option>
+                                  <option>Active</option>
+                                  <option>Inactive</option>
+                                </select>
+                              </div>
+                        </div>
+                        <!-- /.card-body -->
+
+                        <div class="card-footer">
+                            <button type="submit" class="btn btn-primary">Create</button>
+                        </div>
+                    </form>
+                </div>
+                <!-- /.card -->
+            </div>
+            <!--/.col (right) -->
+        </div>
+        <!-- /.row -->
+    </div><!-- /.container-fluid -->
+</section>
+<!-- /.content -->
+
+@section Scripts
+    {
+        <script>
+            $('Create').addClass('active');
+        </script>
+    <partial name="_ValidationScriptsPartial" />
+}

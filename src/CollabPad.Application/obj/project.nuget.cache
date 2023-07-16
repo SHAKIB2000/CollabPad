@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B3r0PfXxMs4FJv/I6h81Yu3snRvFgEtF22U/Qwi8pD6fRw/EldXErHUBlW8fLGXkEMFoUvAyUd3rIf8h8yL7sw==",
+  "success": true,
+  "projectFilePath": "E:\\SE - 431\\Project\\Back End\\Github\\CollabPad\\src\\CollabPad.Application\\CollabPad.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\E L I T E B O O K\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\E L I T E B O O K\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\E L I T E B O O K\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\E L I T E B O O K\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
