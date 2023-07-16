@@ -1,7 +1,11 @@
-﻿using CollabPad.Web.Models;
+﻿using Azure.Core;
+using CollabPad.Domain.Entities;
+using CollabPad.Persistence;
+using CollabPad.Web.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Reflection;
 
 namespace CollabPad.Web.Controllers
 {
@@ -20,6 +24,8 @@ namespace CollabPad.Web.Controllers
         }
         public IActionResult DataCollection()
         {
+            
+
             return View();
         }
         public IActionResult ProposalSharing()
@@ -37,6 +43,11 @@ namespace CollabPad.Web.Controllers
 
         public IActionResult Contact()
         {
+            return View();
+        }
+        public IActionResult Post(Guid id)
+        {
+
             return View();
         }
 
